@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   // apiUrl: "https://catstagramserver.azurewebsites.net/"
-  apiUrl: "https://localhost:44320/"
+  apiUrl: "https://userregistrations.azurewebsites.net/"
 };
 
 /*
